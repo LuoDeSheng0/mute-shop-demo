@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "spring.mail.enable",
+      "type": "java.lang.String",
+      "description": "Description for spring.mail.enable."
+    },
+    {
+      "name": "spring.mail.enable",
+      "type": "java.lang.String",
+      "description": "Description for spring.mail.enable."
+    },
+    {
+      "name": "spring.mail.smtp.auth",
+      "type": "java.lang.String",
+      "description": "Description for spring.mail.smtp.auth."
+    }
+  ] }
